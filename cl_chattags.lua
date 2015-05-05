@@ -10,6 +10,7 @@ CT.Tags = {
 	["admin"] = {Color(255,150,50), "[Admin]"},
 	["mod"] = {Color(100,200,255), "[Mod]"},
 	["moderator"] = {Color(100,200,255), "[Moderator]"},
+	["crows pet"] = { {r=0,g=230,b=255, Glow=true, GlowTarget=Color(0,0,0)}, "[Crows Pet]",
 	
 	["dev"] = {Color(100,200,255), "[Dev]"},
 	["developer"] = {Color(100,200,255), "[Developer]"},
